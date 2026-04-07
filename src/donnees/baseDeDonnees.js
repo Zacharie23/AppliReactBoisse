@@ -1,7 +1,7 @@
 const donnéesParDéfaut = {
   clients: [
-    { id: 1, nom: "Alice Martin", email: "alice@mail.com", telephone: "0601020304" },
-    { id: 2, nom: "Bob Dupont", email: "bob@mail.com", telephone: "0605060708" },
+    { id: 1, nom: "Romain Sintas", email: "romainsintas@mail.com", telephone: "0601020304" },
+    { id: 2, nom: "Tyron Morcel", email: "tyronmorcel@mail.com", telephone: "0605060708" },
   ],
   produits: [
     { id: 1, nom: "Chaise", prix: 49.99, stock: 20, categorie: "Mobilier" },
